@@ -1,5 +1,5 @@
 # [Nth-order-Bezier-Curve-Simulation]
-Visualization & Simulation of Nth-order Bezier Curve using recursive approach. /
+Visualization & Simulation of Nth-order Bezier Curve using recursive approach. \
 In computer graphics, Bezier Curve algorithm and its variants are widely used to enhance the dynamics of sprite movements.
 
 Please configure parametric settings in "sketch.js" file, according to your own needs.

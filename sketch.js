@@ -15,7 +15,7 @@ let time_min = 0;
 let time_max = 1;
 
 // number of control points
-let N = 4;
+let N = 10;
 
 // objects to manage data processing
 let _bezier = {};

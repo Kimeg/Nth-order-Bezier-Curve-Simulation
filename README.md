@@ -11,3 +11,5 @@ Please configure parametric settings in "sketch.js" file, according to your own 
 [3] Run the following command : python -m http.server port_number.  ( default port number is 8000, but you can use your own 4-digit port number. )\
 [4] On your browser, navigate to http://localhost:port_number \
 [5] Enjoy.
+
+![alt text](curve.png)
